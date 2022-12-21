@@ -142,7 +142,7 @@ void I2CRegisterWrite(
 
 //void calibrationOfBMP280(void);
 
-void BMP280Init(uint8_t ctrl_meas,uint8_t config);
+void BME280Init(uint8_t ctrl_meas,uint8_t config);
 
 //void BMP280Calculation(void);
 
